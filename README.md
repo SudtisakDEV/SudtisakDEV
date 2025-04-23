@@ -40,7 +40,8 @@
   <img src="https://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
-#### 🎬 ด้านการตัดต่อวิดีโอ
+
+🎬 ด้านการตัดต่อวิดีโอ
 
 <p>
   <img src="https://img.shields.io/badge/-Adobe Premiere Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" />
