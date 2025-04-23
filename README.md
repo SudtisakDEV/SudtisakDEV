@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-F72C1F?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ajax-009CDE?style=flat&logo=jquery&logoColor=white" />
 </p>
 
 #### 🎨 Design Tools
