@@ -50,12 +50,16 @@
 ---
 
 ### 📫 ติดต่อ / ผลงาน
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-- 📬 Email: you@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+
+- 🔵 **Facebook**: [DevCee.722](https://www.facebook.com/DevCee.722/)
+- 🔴 **YouTube**: [@AI-foryou01](https://www.youtube.com/@AI-foryou01)
+- 💬 **Line ID**: `tom00121`
+- 📧 **Email**: [tomlampang.00121@gmail.com](mailto:tomlampang.00121@gmail.com)
+- 📱 **โทรศัพท์**: 095-832-2998
+
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SudtisakDEV&show_icons=true&theme=tokyonight" />
 </p>
