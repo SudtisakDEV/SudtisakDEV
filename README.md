@@ -78,6 +78,8 @@
 - 📧 **Email**: [tomlampang.00121@gmail.com](mailto:tomlampang.00121@gmail.com)
 - 📱 **โทรศัพท์**: 095-832-2998
 
+---
+
 <p>
 ### 📈 การเรียนรู้ที่กำลังดำเนินการ
 
