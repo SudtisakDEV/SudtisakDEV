@@ -1,118 +1,147 @@
-<h1 align="center">สวัสดีครับ 👋 ผมชื่อ [ ต้อม ]</h1>
+<div align="center">
 
-<p align="center">
-  🔥 นักพัฒนา Full-Stack ที่หลงใหลใน Python, สาย Dev ที่ออกแบบก็ได้ เขียนโค้ดก็เก่ง  
-  📍 สนุกกับการสร้างแอป ระบบอัตโนมัติ เว็บไซต์ ไปจนถึงแชทบอทและ UI สวย ๆ  
-</p>
+# สวัสดีครับ 👋 ผมชื่อ [ ต้อม ]
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DevCee.722/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AI-foryou01)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomlampang.00121@gmail.com)
+
+🔥 **นักพัฒนา Full-Stack** ที่หลงใหลใน Python | สาย Dev ที่ออกแบบก็ได้ เขียนโค้ดก็เก่ง
+📍 สนุกกับการสร้างแอป ระบบอัตโนมัติ เว็บไซต์ ไปจนถึงแชทบอทและ UI สวย ๆ
+
+<img src="https://github-readme-stats.vercel.app/api?username=SudtisakDEV&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudtisakDEV&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+
+</div>
 
 ---
 
-### 🧠 Tech Stack & Tools
+## 🧠 Tech Stack & Tools
 
 #### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-F72C1F?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ajax-009CDE?style=flat&logo=jquery&logoColor=white" />
-</p>
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ajax](https://img.shields.io/badge/-Ajax-009CDE?style=for-the-badge&logo=jquery&logoColor=white)
 
 #### 🎨 Design Tools
-<p>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
-</p>
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 #### 🛠️ Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
 
-🎬 ด้านการตัดต่อวิดีโอ
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/-Adobe Premiere Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CapCut-000000?style=flat&logo=capcut&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DaVinci Resolve-FEDE02?style=flat&logo=blackmagicdesign&logoColor=black" />
-</p>
+---
+
+## 🎬 ด้านการตัดต่อวิดีโอ
+
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![CapCut](https://img.shields.io/badge/-CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FEDE02?style=for-the-badge&logo=blackmagicdesign&logoColor=black)
 
 - ✂️ ถนัดตัดต่อวิดีโอแนวตั้ง/แนวนอน สำหรับ YouTube Shorts, TikTok, Facebook
 - 🎙️ เพิ่มเสียงบรรยาย ตัดต่อเสียง ใส่เอฟเฟกต์ และซับไตเติ้ล
 - 🎞️ ทำคลิปโปรโมตสินค้า คลิปสอน หรือคอนเทนต์สร้างสรรค์ทุกรูปแบบ
 
-### 📢 การยิงแอด (Facebook / TikTok)
+---
 
-- 📱 **Facebook Ads**: สร้างแคมเปญโฆษณาบน Facebook, Instagram และ Audience Network  
-  การตั้งค่าแคมเปญ, การเลือกกลุ่มเป้าหมาย, และการวิเคราะห์ผลเพื่อเพิ่มประสิทธิภาพ
-- 🎯 **TikTok Ads**: สร้างแคมเปญโฆษณาบน TikTok  
-  การเลือกกลุ่มเป้าหมาย, การตั้งค่า Ads Format (In-Feed, Branded Hashtag Challenge) และการวิเคราะห์ผลแคมเปญ
-  
-### 🔧 ทักษะอื่น ๆ
+## 📢 การยิงแอด
 
-- 🌐 **Arduino ESP8266**:  
-  พัฒนาโปรเจกต์ด้าน IoT ด้วยบอร์ด **ESP8266** โดยสามารถเชื่อมต่อกับอินเทอร์เน็ตผ่าน Wi-Fi เพื่อสร้างระบบควบคุมจากระยะไกล, ระบบเซ็นเซอร์แจ้งเตือน, การเก็บข้อมูลแบบเรียลไทม์ และระบบสั่งงานผ่านแอปพลิเคชันหรือเว็บไซต์  
-  มีประสบการณ์ในการเขียนโค้ดด้วย Arduino IDE และการใช้งานร่วมกับ Sensor ต่าง ๆ เช่น DHT11, Relay, Blynk, Firebase ฯลฯ
+| แพลตฟอร์ม | รายละเอียด |
+|:---:|---|
+| 📱 **Facebook Ads** | สร้างแคมเปญโฆษณาบน Facebook, Instagram และ Audience Network — การตั้งค่าแคมเปญ, เลือกกลุ่มเป้าหมาย, วิเคราะห์ผลเพื่อเพิ่มประสิทธิภาพ |
+| 🎯 **TikTok Ads** | สร้างแคมเปญโฆษณาบน TikTok — In-Feed, Branded Hashtag Challenge, การวิเคราะห์ผลแคมเปญ |
 
 ---
 
-### 🚀 เป้าหมาย & ความเชื่อ
+## 🔧 ทักษะอื่น ๆ
 
-> **"การพัฒนาเทคโนโลยีที่เป็นประโยชน์กับผู้คนและธุรกิจคือเป้าหมายของผม"**  
-> ผมเชื่อว่าเทคโนโลยีควรจะช่วยแก้ปัญหาจริง ๆ และมีผลกระทบที่ดีในชีวิตประจำวันของผู้คน ไม่ใช่แค่เพื่อความสะดวกสบาย แต่เพื่อเพิ่มประสิทธิภาพในการทำงานและลดขั้นตอนที่ซับซ้อน  
-> ในการพัฒนาโปรเจกต์หรือซอฟต์แวร์ต่าง ๆ ผมเน้นการสร้าง **เครื่องมือที่ใช้งานง่าย**, **มีความยืดหยุ่นสูง**, และ **สามารถขยายได้ในอนาคต**  
->  
-> **เป้าหมายระยะยาว**:  
-> - การสร้างระบบอัตโนมัติที่สามารถช่วยธุรกิจและองค์กรในการเพิ่มประสิทธิภาพการทำงาน  
-> - พัฒนา **AI** และ **Machine Learning** ที่สามารถปรับตัวได้ตามข้อมูลใหม่ ๆ และนำไปใช้ในการตัดสินใจทางธุรกิจ  
-> - ช่วยให้ผู้คนสามารถเข้าถึงเทคโนโลยีที่สามารถทำให้ชีวิตดีขึ้นและสามารถแก้ปัญหาได้จริง  
->  
-> **ความเชื่อ**:  
-> - **การเรียนรู้ไม่มีที่สิ้นสุด**: ผมเชื่อว่าเทคโนโลยีไม่เคยหยุดนิ่ง และเราต้องพัฒนาตัวเองตลอดเวลา  
-> - **การทำงานร่วมกัน**: ผมเชื่อว่า **การร่วมมือกัน** ในทีมและการฟังความเห็นจากทุกฝ่ายจะช่วยให้ผลลัพธ์ออกมาดีที่สุด  
-> - **การแก้ปัญหา**: ผมมุ่งมั่นในการแก้ปัญหาด้วยเทคโนโลยีที่สามารถใช้งานได้จริง และเหมาะสมกับบริบทของธุรกิจ
+<details>
+<summary>🌐 <strong>Arduino ESP8266 — IoT Development</strong></summary>
+<br>
 
+พัฒนาโปรเจกต์ด้าน IoT ด้วยบอร์ด **ESP8266** โดยสามารถเชื่อมต่อกับอินเทอร์เน็ตผ่าน Wi-Fi เพื่อสร้างระบบควบคุมจากระยะไกล, ระบบเซ็นเซอร์แจ้งเตือน, การเก็บข้อมูลแบบเรียลไทม์ และระบบสั่งงานผ่านแอปพลิเคชันหรือเว็บไซต์
+
+มีประสบการณ์ในการเขียนโค้ดด้วย Arduino IDE และการใช้งานร่วมกับ Sensor ต่าง ๆ เช่น DHT11, Relay, Blynk, Firebase ฯลฯ
+
+</details>
 
 ---
 
-### 📫 ติดต่อ / ผลงาน
+## 🚀 เป้าหมาย & ความเชื่อ
 
-- 🔵 **Facebook**: [DevCee.722](https://www.facebook.com/DevCee.722/)
-- 🔴 **YouTube**: [@AI-foryou01](https://www.youtube.com/@AI-foryou01)
-- 💬 **Line ID**: `tom00121`
-- 📧 **Email**: [tomlampang.00121@gmail.com](mailto:tomlampang.00121@gmail.com)
-- 📱 **โทรศัพท์**: 095-832-2998
+> **"การพัฒนาเทคโนโลยีที่เป็นประโยชน์กับผู้คนและธุรกิจคือเป้าหมายของผม"**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 เป้าหมายระยะยาว**
+- สร้างระบบอัตโนมัติที่ช่วยธุรกิจเพิ่มประสิทธิภาพ
+- พัฒนา **AI** และ **Machine Learning** สำหรับการตัดสินใจทางธุรกิจ
+- ช่วยให้ผู้คนเข้าถึงเทคโนโลยีที่แก้ปัญหาได้จริง
+
+</td>
+<td width="50%" valign="top">
+
+**💡 ความเชื่อ**
+- **การเรียนรู้ไม่มีที่สิ้นสุด** — เทคโนโลยีไม่เคยหยุดนิ่ง
+- **การทำงานร่วมกัน** — ฟังทุกฝ่ายเพื่อผลลัพธ์ที่ดีที่สุด
+- **การแก้ปัญหา** — ใช้เทคโนโลยีที่เหมาะกับบริบทจริง
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p>
-### 📈 การเรียนรู้ที่กำลังดำเนินการ
+## 📈 กำลังเรียนรู้
 
-- 🤖 **AI และ Machine Learning**:  
-  การศึกษาวิธีการสร้างโมเดล AI ที่สามารถช่วยในการวิเคราะห์ข้อมูลและตัดสินใจ เช่น **Deep Learning**, **Natural Language Processing (NLP)**, และ **Reinforcement Learning**  
-  พัฒนา AI ที่สามารถเรียนรู้จากข้อมูลและปรับปรุงตัวเองได้ตามสถานการณ์
-- 🐳 **Docker และ CI/CD**:  
-  การใช้ **Docker** เพื่อพัฒนาแอปพลิเคชันในรูปแบบ Container และการตั้งค่า **CI/CD** เพื่ออัตโนมัติการทดสอบและ deploy โค้ดไปยัง production
-- ☁️ **Cloud Platforms** เช่น **AWS** และ **Google Cloud**:  
-  เรียนรู้การใช้ **AWS** และ **Google Cloud** สำหรับการจัดการโครงสร้างพื้นฐาน, การใช้บริการ **Cloud Computing**, และการตั้งค่า **Serverless Architecture**
+| หัวข้อ | รายละเอียด |
+|:---:|---|
+| 🤖 **AI & Machine Learning** | Deep Learning, NLP, Reinforcement Learning — พัฒนา AI ที่เรียนรู้และปรับปรุงตัวเองได้ |
+| 🐳 **Docker & CI/CD** | พัฒนาแอปแบบ Container และ Pipeline อัตโนมัติสำหรับ test/deploy |
+| ☁️ **Cloud Platforms** | AWS, Google Cloud — Cloud Computing, Serverless Architecture |
 
-<p>
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudtisakDEV&show_icons=true&theme=tokyonight" />
-</p>
+## 📫 ติดต่อ
+
+<div align="center">
+
+| | ช่องทาง | รายละเอียด |
+|:---:|:---:|:---:|
+| 🔵 | **Facebook** | [DevCee.722](https://www.facebook.com/DevCee.722/) |
+| 🔴 | **YouTube** | [@AI-foryou01](https://www.youtube.com/@AI-foryou01) |
+| 💬 | **Line ID** | `tom00121` |
+| 📧 | **Email** | [tomlampang.00121@gmail.com](mailto:tomlampang.00121@gmail.com) |
+| 📱 | **โทรศัพท์** | 095-832-2998 |
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ ขอบคุณที่แวะมาเยี่ยมชมโปรไฟล์ของผมครับ! ⭐**
+
+<img src="https://komarev.com/ghpvc/?username=SudtisakDEV&style=for-the-badge&color=0e75b6" />
+
+</div>
